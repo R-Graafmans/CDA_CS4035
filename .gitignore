@@ -107,5 +107,8 @@ venv.bak/
 *.lock
 *.~lock.*
 
-#jetbrains
+# VSCode
+.vscode/
+
+# Jetbrains
 .idea/
