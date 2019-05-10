@@ -1,8 +1,0 @@
-CVC invullen is moeilijker dan ccn weten
-hoeveelheid transacties per IP
-veel transacties uit land X dan land Y ineens
-currencies omrekenen naar EU, dan amounts checken
-veel transactions met zelfde amount
-email vs card ID vs IP id altijd hetzelfde?
-currency != shopper country currency
-transactions at night?
