@@ -5,11 +5,11 @@ Anaconda can be downloaded [here](https://www.anaconda.com/distribution/) Instal
 
 ## installing dependencies
 A few additional packages should be installed. The following instructions are based on the fact that you installed jupyter notebook via anaconda.
-```conda install -c conda-forge tslearn```
-```conda install -c anaconda statsmodels ```
-```conda install -c anaconda keras ```
-```conda install -c anaconda seaborn ```
-```conda install -c anaconda ipython ```
+- ```conda install -c conda-forge tslearn```
+- ```conda install -c anaconda statsmodels ```
+- ```conda install -c anaconda keras ```
+- ```conda install -c anaconda seaborn ```
+- ```conda install -c anaconda ipython ```
 
 ## Running the code
 Now you have installed Jupyter notebook you can start the service from the command line using the command: ```jupyter notebook```. Open the .ipynb file and run cell after cell in a sequential order. Enjoy!
