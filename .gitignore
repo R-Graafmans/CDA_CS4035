@@ -112,3 +112,6 @@ venv.bak/
 
 # Jetbrains
 .idea/
+
+# Netflow data
+*.labeled
